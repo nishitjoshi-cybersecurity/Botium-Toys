@@ -1,4 +1,4 @@
-# Conduct a security audit, part 1
+# Conduct a security audit
 ## What is this project about?
 In this activity provided by Google Cybersecurity Certifications Program, I conducted an internal security audit to monitor for threats, risks, or vulnerabilities that can affect Botium Toys’s business continuity and critical assets.
 
@@ -12,7 +12,7 @@ I kept the scopes and goals of Botium in mind to make decisions about the contro
 
 
 # Google Documents provided by Google Cybersecurity Certifications Program
-
+## Part 1
 Audit Scope and goals:
 https://docs.google.com/document/d/1n9VrhPGg0oknKEu6j4YVTNXygk8gsKAQDYJ4ti_-E3E/edit?usp=sharing
 
