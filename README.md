@@ -11,8 +11,8 @@ I also learnt about 3 main control categories such as: Adminstrative/Managerial 
 I kept the scopes and goals of Botium in mind to make decisions about the controls assessment and the compliance checklist.
 
 
-# Google Documents provided by Google Cybersecurity Certifications Program
-## Part 1
+# Resources provided by Google Cybersecurity Certifications Program
+## Part 1 of activity
 Audit Scope and goals:
 https://docs.google.com/document/d/1n9VrhPGg0oknKEu6j4YVTNXygk8gsKAQDYJ4ti_-E3E/edit?usp=sharing
 
@@ -24,3 +24,8 @@ https://docs.google.com/document/d/1-018VOe-f1OgBzpg2jIhi8NG-ZIGd6GXsvm2ntO1NQE/
 Controls Assessment: https://docs.google.com/document/d/1nLDQ37HIscNQ45DSqrloK3YFPAOIB0fpK6sfFck9hLA/edit?usp=sharing
 
 Compliance Checklist with Explanations filled out: https://docs.google.com/document/d/1LTE_-v8akGtzgaoWRvXnXqTBT1hB5GXUGcwOLVNvPNk/edit?usp=sharing
+
+## Part 2 of activity
+Resources used from Part 1 activity: Controls Assessment and Compliance Checklist
+
+Stakeholder memorandum: https://docs.google.com/document/d/1Y-v12avTSoTi1rDqd2zD3cQEmsy1J9cS_KUQLrzBl0U/edit?usp=sharing
