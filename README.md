@@ -3,7 +3,7 @@
 In this activity provided by Google Cybersecurity Certifications Program, I conducted an internal security audit to monitor for threats, risks, or vulnerabilities that can affect Botium Toys’s business continuity and critical assets.
 
 ## Did I have to install anything?
-I used Google Docs (see links to activity tasks below) to fill out the activities provided so there was no installations were required.
+I used Google Docs (see links to activity tasks below) to fill out the activities provided so there was no installations required.
 
 ## What did I learn?
 I learnt about compliance regulations and standards in regards to the NIST CSF AND NIST RMF both which provide frameworks and guidelines for organisations to follow 
