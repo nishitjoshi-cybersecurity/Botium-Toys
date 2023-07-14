@@ -1,4 +1,4 @@
-# Botium-Toys - Security Audit
+# Conduct a security audit, part 1
 ## What is this project about?
 In this activity provided by Google Cybersecurity Certifications Program, I conducted an internal security audit to monitor for threats, risks, or vulnerabilities that can affect Botium Toys’s business continuity and critical assets.
 
