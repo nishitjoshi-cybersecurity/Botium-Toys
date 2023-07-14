@@ -2,7 +2,7 @@
 ## What is this project about?
 In this activity provided by Google Cybersecurity Certifications Program, I conducted an internal security audit to monitor for threats, risks, or vulnerabilities that can affect Botium Toys’s business continuity and critical assets.
 
-## A guide to installation and use
+## Did I have to install anything?
 I used Google Docs (see links to activity tasks below) to fill out the activities provided so there was no installations were required.
 
 ## What did I learn?
